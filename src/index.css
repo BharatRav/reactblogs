@@ -3,6 +3,7 @@
   --textColor: black;
   --softBg: #f0f0f0;
   --softTextColor: #626262;
+  --buttonColor:"red";
 }
 
 * {
@@ -25,6 +26,7 @@ a {
   --textColor: #ddd;
   --softBg: #1f273a;
   --softTextColor: #a6a6a6;
+  --buttonColor:"white";
 }
 .container {
   min-height: 100vh;
